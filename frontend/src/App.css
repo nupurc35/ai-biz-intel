@@ -1,0 +1,6 @@
+/* CSS for animations and layout specifics if needed beyond index.css */
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
