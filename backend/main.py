@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 from backend import agents
-from backend.agents import something
+
 
 app = FastAPI(title="AI Business Intelligence API")
 
